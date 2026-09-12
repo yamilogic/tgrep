@@ -3,3 +3,7 @@
 .tgrep_staging/
 .tgrep_flush_staging/
 .tgrep_save_staging/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
